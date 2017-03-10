@@ -1,0 +1,12 @@
+/*
+Theme Name:     WordPress Multisite Custom Signup Page
+Theme URI:      http://wpmudev.org
+Description:    Theme to support WPMU DEV post on creating a cusotm signup form for WordPress Multisite. Child theme for the Twenty Seventeen theme.
+Author:         Rachel McCollin
+Author URI:     http://rachelmccollin.co.uk/
+Template:       twentyseventeen
+Version:        1.0
+*/
+
+@import url("../twentyseventeen/style.css");
+
